@@ -1,0 +1,6 @@
+# specific directories
+.ipynb_checkpoints/
+
+
+# Zip files
+*.zip
