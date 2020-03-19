@@ -10,7 +10,7 @@ Note: the dataset is included in the data folder.
 
 # Model
 
-A Random Forest with 100 trees.
+A Random Forest with 300 trees each set to a maximum depth of 21.
 
 It was trained from scratch on the training data using [scikit-learn](https://scikit-learn.org/).
 
